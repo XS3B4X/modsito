@@ -1,0 +1,65 @@
+Items: {
+	SawBlade: {
+		DisplayName: Sierra
+		Tooltip:
+			'''
+			Usada por los Lanzadores de sierras.
+			Puede perforar hasto 2 enemigos
+			'''
+	}
+
+	ClorophiteSawLauncher: {
+		DisplayName: LanzaSierras de Clorofita
+		Tooltip: Dispara 3 sierras, consuliendo solo una
+	}
+
+	IceCutter: {
+		DisplayName: Ice Cutter
+		Tooltip:
+			'''
+			Dispara 2 sierras de hielo que perforan hasta 4 enemigos.
+			Inflinge 'FrostBite'
+			'''
+	}
+
+	MoltenLauncher: {
+		DisplayName: Flaming
+		Tooltip:
+			'''
+			Dispara sierras de fuego que perforan hasta 3 enemigos.
+			Inflinge 'En Llamas'
+			'''
+	}
+
+	SawThrower: {
+		DisplayName: Lanzador de Sierras
+		Tooltip: Dispara sierras que caen despues de unos segundos
+	}
+
+	ReinforcedBowString: {
+		DisplayName: Cuerda de arco reforzada
+		Tooltip:
+			'''
+			Incrementa el daño a distancia en {0}%
+			Incrementa la velocidad de armas a distancia en {1}%
+			'''
+	}
+
+	PoisonousRose: {
+		DisplayName: Rosa Venenosa
+		Tooltip: Invoca a una rosa que dispara petalos venenosos a los enemigos.
+	}
+}
+
+Projectiles: {
+	BlazingSawBladeProjectile.DisplayName: Blazing Saw Blade Projectile
+	SawBladeProjectile.DisplayName: Saw Blade Projectile
+	// RoseMinion.DisplayName: Rose Minion
+}
+
+Buffs: {
+	RoseMinionBuff: {
+		// DisplayName: Rose Minion Buff
+		// Description: Mods.Modsito.Buffs.RoseMinionBuff.Description
+	}
+}
