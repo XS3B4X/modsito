@@ -1,0 +1,61 @@
+Mods: {
+	Modsito: {
+		Items: {
+			SawBlade: {
+				DisplayName: Sierra
+				Tooltip: Usada por los Lanzadores de sierras.
+			}
+
+			ClorophiteSawThrower: {
+				DisplayName: LanzaSierras de Clorofita
+				Tooltip:
+					'''
+					Dispara 3 sierras, consumiendo solo una
+					Inflinje 'Veneno'
+					'''
+			}
+
+			IceCutter: {
+				DisplayName: Ice Cutter
+				Tooltip:
+					'''
+					Dispara 2 sierras de hielo que perforan hasta 4 enemigos.
+					Inflinge 'FrostBite'
+					'''
+			}
+
+			MoltenLauncher: {
+				DisplayName: MoltenLauncher
+				Tooltip:
+					'''
+					Dispara sierras de fuego que perforan hasta 3 enemigos.
+					Inflinge 'En Llamas'
+					'''
+			}
+
+			SawThrower: {
+				DisplayName: Lanzador de Sierras
+				Tooltip: Dispara sierras que caen despues de unos segundos
+			}
+
+			ReinforcedBowString: {
+				DisplayName: Cuerda de arco reforzada
+				Tooltip:
+					'''
+					Incrementa el Daño de Arcos en {0}%
+					Incrementa la Velocidad de ataque de Arcos en {1}%
+					'''
+			}
+
+			WoodEmblem: {
+				DisplayName: Emblema de Madera
+				Tooltip: Incrementa tu numero máximo de torretas en {0}
+			}
+		}
+
+		Projectiles: {
+			BlazingSawBladeProjectile.DisplayName: Blazing Saw Blade Projectile
+			SawBladeProjectile.DisplayName: Saw Blade Projectile
+		}
+	}
+}

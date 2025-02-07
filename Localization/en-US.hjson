@@ -1,0 +1,61 @@
+Mods: {
+	Modsito: {
+		Items: {
+			SawBlade: {
+				DisplayName: SawBlade
+				Tooltip: Used as ammo for the Saw Throwers.
+			}
+
+			ClorophiteSawThrower: {
+				DisplayName: Clorophite Saw Launcher
+				Tooltip:
+					'''
+					Shoots a burst of 3 saws only consuming one.
+					Inflicts 'Poison'.
+					'''
+			}
+
+			IceCutter: {
+				DisplayName: Ice Cutter
+				Tooltip:
+					'''
+					Shoots 2 frozen saws that pierce up to 3 enemies.
+					Inflicts 'FrostBite'
+					'''
+			}
+
+			MoltenLauncher: {
+				DisplayName: Molten Launcher
+				Tooltip:
+					'''
+					Shoots Molten Saws that pierce up to 3 enemies.
+					Inflicts 'On Fire'
+					'''
+			}
+
+			SawThrower: {
+				DisplayName: Saw Thrower
+				Tooltip: Shoots saws that pierces 2 enemies.
+			}
+
+			ReinforcedBowString: {
+				DisplayName: Reinforced Bow String
+				Tooltip:
+					'''
+					Increases Bow Damage by {0}%
+					Increases Bow Attack Speed by {1}%
+					'''
+			}
+
+			WoodEmblem: {
+				DisplayName: Wood Emblem
+				Tooltip: Increase your max number of sentries by {0}
+			}
+		}
+
+		Projectiles: {
+			BlazingSawBladeProjectile.DisplayName: Blazing Saw Blade Projectile
+			SawBladeProjectile.DisplayName: Saw Blade Projectile
+		}
+	}
+}

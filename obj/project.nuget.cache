@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pVTOHH0S/hgu0//IGtpQi+U+bRBdBA6OvKNRZ4XNZqTRcd2CbMIq41gVmzWB9PQvUl3aIW3+ZMU4ZVnaGDzDYw==",
+  "dgSpecHash": "Cr4a1v+3L7Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hola8\\OneDrive\\Documentos\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Modsito.csproj",
+  "projectFilePath": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Modsito.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hola8\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512",
-    "C:\\Users\\hola8\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\hola8\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\hola8\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+    "C:\\Users\\Sebas\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
   ],
   "logs": []
 }
