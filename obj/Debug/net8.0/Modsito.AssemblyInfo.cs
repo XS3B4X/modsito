@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modsito")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b458ebdf38bc4b298fb3496f82a1a502108819d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5c41fb4abc75f1dd5edf7b085db7989443692f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modsito")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modsito")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

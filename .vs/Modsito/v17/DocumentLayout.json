@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\accessories\\damage\\reinforcedbowstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\accessories\\utility\\woodemblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\accessories\\utility\\woodemblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\localization\\es-es.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:localization\\es-es.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "build.txt",
               "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\build.txt",
               "RelativeDocumentMoniker": "build.txt",
@@ -43,12 +43,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2023-08-08T01:00:46.237Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "es-ES.hjson",
               "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Localization\\es-ES.hjson",
               "RelativeDocumentMoniker": "Localization\\es-ES.hjson",
@@ -57,12 +56,11 @@
               "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-06T19:08:45.989Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "en-US.hjson",
               "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Localization\\en-US.hjson",
               "RelativeDocumentMoniker": "Localization\\en-US.hjson",
@@ -71,8 +69,7 @@
               "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-06T19:08:12.472Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -89,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WoodEmblem.cs",
               "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Utility\\WoodEmblem.cs",
               "RelativeDocumentMoniker": "Items\\Accessories\\Utility\\WoodEmblem.cs",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "Items\\Accessories\\Utility\\WoodEmblem.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T23:12:30.718Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T23:12:30.718Z"
             }
           ]
         }
