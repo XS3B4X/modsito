@@ -29,9 +29,9 @@ namespace Modsito.Items.Accessories.Damage
         }
         public override void ModifyWeaponDamage(Player player, ref StatModifier damage)
         {
-            if (player.HeldItem.useAmmo == AmmoID.Arrow) // Verifica si el arma usa flechas (arco)
+            if (player.HeldItem.useAmmo == AmmoID.Arrow)
             {
-                damage *= 1f + (DamageBonus / 100f); // Aumenta el daño solo en arcos
+                damage *= 1f + (DamageBonus / 100f);
             }
         }
         public override void AddRecipes()
