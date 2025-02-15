@@ -1,6 +1,72 @@
 Mods: {
 	Modsito: {
 		Items: {
+			GemRubyMask: {
+				DisplayName: Mascara de rubí
+				Tooltip:
+					'''
+					Aumenta el daño cuerpo a cuerpo en {0}%
+					Aumenta la probabilidad critica Cuerpo a Cuerpo en {1}%
+					'''
+				SetBonus: Aumenta un {0}% la velocidad del cuerpo a cuerpo
+			}
+
+			GemEmeraldVisor: {
+				DisplayName: Visor de esmeralda
+				Tooltip:
+					'''
+					Aumenta el daño a distancia en {0}%
+					Aumenta la probabilidad critica a Distancia en {1}%
+					'''
+				SetBonus: 10% de probabilidad de no consumir munición
+			}
+
+			GemSapphireHeadgear: {
+				DisplayName: Tocado de zafiro
+				Tooltip:
+					'''
+					Aumenta el daño mágico en {0}%
+					Disminuye el coste de maná en {1}%
+					'''
+				SetBonus:
+					'''
+					Aumenta la probabilidad critica mágica en {1}%
+					Aumenta el maná máximo en {1}
+					'''
+			}
+
+			GemAmberHood: {
+				DisplayName: Capucha de ámbar
+				Tooltip:
+					'''
+					Aumenta el daño de invocación en {0}%
+					Aumenta el retroceso de tus invocaciones
+					'''
+				SetBonus:
+					'''
+					Aumenta el máximo de invocaciones en {0}
+					Aumenta el maximo de centinelas en {0}
+					'''
+			}
+
+			GemChestplate: {
+				DisplayName: Coraza de Gemas
+				Tooltip:
+					'''
+					Aumenta el daño en {0}%
+					Aumenta la probabilidad critica en {1}%
+					'''
+			}
+
+			GemLeggings: {
+				DisplayName: Gem Leggings
+				Tooltip:
+					'''
+					Aumenta el daño en {0}%
+					Aumenta la velocidad de movimiento en {1}%
+					'''
+			}
+
 			SawBlade: {
 				DisplayName: Sierra
 				Tooltip: Usada por los Lanzadores de sierras.
@@ -38,24 +104,67 @@ Mods: {
 				Tooltip: Dispara sierras que caen despues de unos segundos
 			}
 
-			ReinforcedBowString: {
-				DisplayName: Cuerda de arco reforzada
+			FlameThrowerSentry: {
+				DisplayName: Báculo de Lanzallamas
 				Tooltip:
 					'''
-					Incrementa el Daño de Arcos en {0}%
-					Incrementa la Velocidad de ataque de Arcos en {1}%
+					Invoca a un centinela
+					Dispara una llama hacia el enemigo más cercano
+					Cada uso de esta arma mejorará la torreta ya existente, en lugar de invocar una nueva
+					Cada mejora incrementará el daño en 33% y su alcance en 33%
+					Máximo 5 mejoras
+					Ignora 15 puntos de Defensa enemiga
+					Inflinge 'Helfire'
 					'''
 			}
 
-			WoodEmblem: {
-				DisplayName: Emblema de Madera
-				Tooltip: Incrementa tu numero máximo de torretas en {0}
+			ReinforcedBowString: {
+				DisplayName: Cuerda de arco reforzada
+				Tooltip: Incrementa la Velocidad de ataque de Arcos en {0}%
+			}
+
+			RubyEmblem: {
+				DisplayName: Emblema de rubí
+				Tooltip:
+					'''
+					Aumenta el daño cuerpo a cuerpo en {0}%
+					Aumenta la velocidad de ataque cuerpo a cuerpo en {1}%
+					'''
+			}
+
+			EmeraldEmblem: {
+				DisplayName: Emblema de esmeralda
+				Tooltip:
+					'''
+					Aumenta el daño a distancia en {0}%
+					{1}% de probabilidad de no consumir munición
+					'''
+			}
+
+			SapphireEmblem: {
+				DisplayName: Emblema de zafiro
+				Tooltip:
+					'''
+					Aumenta el daño mágico en {0}%
+					Aumenta el maná máximo en {1}
+					'''
+			}
+
+			AmberEmblem: {
+				DisplayName: Emblema de ámbar
+				Tooltip:
+					'''
+					Aumenta el daño de invocación en {0}%
+					Aumenta el daño por conexión de los latigos en {1}
+					'''
 			}
 		}
 
 		Projectiles: {
 			BlazingSawBladeProjectile.DisplayName: Blazing Saw Blade Projectile
 			SawBladeProjectile.DisplayName: Saw Blade Projectile
+			FlameThrowerSentryProjectile.DisplayName: Flame Thrower Sentry Projectile
+			FlameThrowerFireProjectile.DisplayName: Flame Thrower Fire Projectile
 		}
 	}
 }

@@ -1,6 +1,72 @@
 Mods: {
 	Modsito: {
 		Items: {
+			GemRubyMask: {
+				DisplayName: Ruby Mask
+				Tooltip:
+					'''
+					{0}% increased melee damage
+					{1}% increased melee critical strike chance
+					'''
+				SetBonus: "{0}% increased melee speed"
+			}
+
+			GemEmeraldVisor: {
+				DisplayName: Emerald Visor
+				Tooltip:
+					'''
+					{0}% increased ranged damage
+					{1}% increased ranged critical strike chance
+					'''
+				SetBonus: 10% chance to save ammo
+			}
+
+			GemSapphireHeadgear: {
+				DisplayName: Sapphire Headgear
+				Tooltip:
+					'''
+					{0}% increased magic damage
+					{1}% decreased mana cost
+					'''
+				SetBonus:
+					'''
+					"{0}% increased magic critical chance
+					Increases maximum mana by {1}"
+					'''
+			}
+
+			GemAmberHood: {
+				DisplayName: Amber Hood
+				Tooltip:
+					'''
+					{0}% increased Summon damage
+					Increases Summons Knockback
+					'''
+				SetBonus:
+					'''
+					"Increases your max number of minions by {0}
+					Increases your max number of sentries by {0}"
+					'''
+			}
+
+			GemChestplate: {
+				DisplayName: Gem Chestplate
+				Tooltip:
+					'''
+					{0}% increased damage
+					{1}% increased critical strike chance
+					'''
+			}
+
+			GemLeggings: {
+				DisplayName: Gem Leggings
+				Tooltip:
+					'''
+					{0}% increased damage
+					{1}% increased movement speed
+					'''
+			}
+
 			SawBlade: {
 				DisplayName: SawBlade
 				Tooltip: Used as ammo for the Saw Throwers.
@@ -38,24 +104,67 @@ Mods: {
 				Tooltip: Shoots saws that pierces 2 enemies.
 			}
 
-			ReinforcedBowString: {
-				DisplayName: Reinforced Bow String
+			FlameThrowerSentry: {
+				DisplayName: Flamethrower Staff
 				Tooltip:
 					'''
-					Increases Bow Damage by {0}%
-					Increases Bow Attack Speed by {1}%
+					Summons a sentry
+					Shoots flames to the nearest enemy
+					Every use of this weapon will upgrade the existing turret, instead of summoning a new one
+					Every upgrade will increase the damage by 33% and the range by 33%
+					Maximum 5 upgrades
+					Ignores 15 points of enemy Defense
+					Inflicts 'Helfire'
 					'''
 			}
 
-			WoodEmblem: {
-				DisplayName: Wood Emblem
-				Tooltip: Increase your max number of sentries by {0}
+			ReinforcedBowString: {
+				DisplayName: Reinforced Bow String
+				Tooltip: Increases Bow Attack Speed by {0}%
+			}
+
+			RubyEmblem: {
+				DisplayName: Ruby emblem
+				Tooltip:
+					'''
+					{0}% increased melee damage
+					Increases melee attack speed by {1}%
+					'''
+			}
+
+			EmeraldEmblem: {
+				DisplayName: Emerald emblem
+				Tooltip:
+					'''
+					{0}% increased ranged damage
+					{1}% chance to not consume ammo
+					'''
+			}
+
+			SapphireEmblem: {
+				DisplayName: Sapphire emblem
+				Tooltip:
+					'''
+					{0}% increased magic damage
+					Increases maximum mana by {1}
+					'''
+			}
+
+			AmberEmblem: {
+				DisplayName: Amber emblem
+				Tooltip:
+					'''
+					{0}% increased summon damage
+					Increases whip tag damage by {1}
+					'''
 			}
 		}
 
 		Projectiles: {
 			BlazingSawBladeProjectile.DisplayName: Blazing Saw Blade Projectile
 			SawBladeProjectile.DisplayName: Saw Blade Projectile
+			FlameThrowerSentryProjectile.DisplayName: Flame Thrower Sentry Projectile
+			FlameThrowerFireProjectile.DisplayName: Flame Thrower Fire Projectile
 		}
 	}
 }

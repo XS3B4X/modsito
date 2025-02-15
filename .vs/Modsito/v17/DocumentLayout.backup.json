@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\accessories\\damage\\reinforcedbowstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\accessories\\damage\\reinforcedbowstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\armor\\mixed\\gemleggings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\armor\\mixed\\gemleggings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\armor\\mixed\\gemchestplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\armor\\mixed\\gemchestplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\accessories\\utility\\woodemblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\accessories\\utility\\woodemblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\armor\\mixed\\gemamberhood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\armor\\mixed\\gemamberhood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\armor\\mixed\\gemsapphireheadgear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\armor\\mixed\\gemsapphireheadgear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\armor\\mixed\\gememeraldvisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\armor\\mixed\\gememeraldvisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\armor\\mixed\\gemrubymask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\armor\\mixed\\gemrubymask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\localization\\en-us.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -21,6 +33,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\localization\\es-es.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:localization\\es-es.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:build.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "build.txt",
               "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\build.txt",
               "RelativeDocumentMoniker": "build.txt",
@@ -43,59 +59,113 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2023-08-08T01:00:46.237Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "es-ES.hjson",
               "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Localization\\es-ES.hjson",
               "RelativeDocumentMoniker": "Localization\\es-ES.hjson",
               "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Localization\\es-ES.hjson",
               "RelativeToolTip": "Localization\\es-ES.hjson",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-06T19:08:45.989Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "en-US.hjson",
               "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Localization\\en-US.hjson",
               "RelativeDocumentMoniker": "Localization\\en-US.hjson",
               "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Localization\\en-US.hjson",
               "RelativeToolTip": "Localization\\en-US.hjson",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-06T19:08:12.472Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ReinforcedBowString.cs",
-              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Damage\\ReinforcedBowString.cs",
-              "RelativeDocumentMoniker": "Items\\Accessories\\Damage\\ReinforcedBowString.cs",
-              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Damage\\ReinforcedBowString.cs",
-              "RelativeToolTip": "Items\\Accessories\\Damage\\ReinforcedBowString.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAADwvxsAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "GemRubyMask.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Armor\\Mixed\\GemRubyMask.cs",
+              "RelativeDocumentMoniker": "Items\\Armor\\Mixed\\GemRubyMask.cs",
+              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Armor\\Mixed\\GemRubyMask.cs",
+              "RelativeToolTip": "Items\\Armor\\Mixed\\GemRubyMask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T23:16:03.976Z",
+              "WhenOpened": "2025-02-13T23:12:41.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GemEmeraldVisor.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Armor\\Mixed\\GemEmeraldVisor.cs",
+              "RelativeDocumentMoniker": "Items\\Armor\\Mixed\\GemEmeraldVisor.cs",
+              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Armor\\Mixed\\GemEmeraldVisor.cs",
+              "RelativeToolTip": "Items\\Armor\\Mixed\\GemEmeraldVisor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T00:46:19.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GemSapphireHeadgear.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Armor\\Mixed\\GemSapphireHeadgear.cs",
+              "RelativeDocumentMoniker": "Items\\Armor\\Mixed\\GemSapphireHeadgear.cs",
+              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Armor\\Mixed\\GemSapphireHeadgear.cs",
+              "RelativeToolTip": "Items\\Armor\\Mixed\\GemSapphireHeadgear.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T00:46:18.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "WoodEmblem.cs",
-              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Utility\\WoodEmblem.cs",
-              "RelativeDocumentMoniker": "Items\\Accessories\\Utility\\WoodEmblem.cs",
-              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Utility\\WoodEmblem.cs",
-              "RelativeToolTip": "Items\\Accessories\\Utility\\WoodEmblem.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Title": "GemAmberHood.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Armor\\Mixed\\GemAmberHood.cs",
+              "RelativeDocumentMoniker": "Items\\Armor\\Mixed\\GemAmberHood.cs",
+              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Armor\\Mixed\\GemAmberHood.cs",
+              "RelativeToolTip": "Items\\Armor\\Mixed\\GemAmberHood.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T23:12:30.718Z"
+              "WhenOpened": "2025-02-12T00:46:17.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GemChestplate.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Armor\\Mixed\\GemChestplate.cs",
+              "RelativeDocumentMoniker": "Items\\Armor\\Mixed\\GemChestplate.cs",
+              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Armor\\Mixed\\GemChestplate.cs",
+              "RelativeToolTip": "Items\\Armor\\Mixed\\GemChestplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T01:15:09.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GemLeggings.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Armor\\Mixed\\GemLeggings.cs",
+              "RelativeDocumentMoniker": "Items\\Armor\\Mixed\\GemLeggings.cs",
+              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Armor\\Mixed\\GemLeggings.cs",
+              "RelativeToolTip": "Items\\Armor\\Mixed\\GemLeggings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T01:15:08.032Z",
+              "EditorCaption": ""
             }
           ]
         }
