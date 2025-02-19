@@ -9,7 +9,7 @@ namespace Modsito.Items.Armor.Mixed
     [AutoloadEquip(EquipType.Head)]
     internal class GemRubyMask : ModItem
     {
-        public static readonly int damageBonus = 11;
+        public static readonly int damageBonus = 10;
         public static readonly int critChanceBonus = 5;
         public static readonly int meleeSpeedSetBonus = 12;
         public override LocalizedText Tooltip => base.Tooltip.WithFormatArgs(damageBonus, critChanceBonus);
@@ -22,6 +22,7 @@ namespace Modsito.Items.Armor.Mixed
             Item.height = 18;
             Item.value = Item.sellPrice(silver: 30, copper: 90);
             Item.defense = 10;
+            Item.rare = ItemRarityID.Blue;
         }
         public override void UpdateEquip(Player player)
         {
@@ -40,7 +41,7 @@ namespace Modsito.Items.Armor.Mixed
         public override void AddRecipes()
         {
             Recipe recipe1 = CreateRecipe();
-            recipe1.AddIngredient(ItemID.Ruby, 4);
+            recipe1.AddIngredient(ItemID.Ruby, 3);
             recipe1.AddIngredient(ItemID.Diamond, 1);
             recipe1.AddIngredient(ItemID.StoneBlock, 8);
             recipe1.AddTile(TileID.Anvils);

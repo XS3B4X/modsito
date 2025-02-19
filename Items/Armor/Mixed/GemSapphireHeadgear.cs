@@ -9,7 +9,7 @@ namespace Modsito.Items.Armor.Mixed
     [AutoloadEquip(EquipType.Head)]
     internal class GemSapphireHeadgear : ModItem
     {
-        public static readonly int damageBonus = 13;
+        public static readonly int damageBonus = 10;
         public static readonly int manaCostReductionBonus = 10;
         public static readonly int critChanceSetBonus = 5;
         public static readonly int maxManaSetBonus = 60;
@@ -23,6 +23,7 @@ namespace Modsito.Items.Armor.Mixed
             Item.height = 18;
             Item.value = Item.sellPrice(silver: 30, copper: 90);
             Item.defense = 4;
+            Item.rare = ItemRarityID.Blue;
         }
         public override void UpdateEquip(Player player)
         {
@@ -42,7 +43,7 @@ namespace Modsito.Items.Armor.Mixed
         public override void AddRecipes()
         {
             Recipe recipe1 = CreateRecipe();
-            recipe1.AddIngredient(ItemID.Sapphire, 4);
+            recipe1.AddIngredient(ItemID.Sapphire, 3);
             recipe1.AddIngredient(ItemID.Diamond, 1);
             recipe1.AddIngredient(ItemID.StoneBlock, 8);
             recipe1.AddTile(TileID.Anvils);

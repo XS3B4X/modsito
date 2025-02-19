@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\localization\\es-es.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:localization\\es-es.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\projectiles\\sentry\\bushcanesentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:projectiles\\sentry\\bushcanesentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\projectiles\\whip\\darkcrystalwhipprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:projectiles\\whip\\darkcrystalwhipprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\weapons\\summoner\\sentry\\bushcane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\weapons\\summoner\\sentry\\bushcane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\projectiles\\sentry\\bushcaneprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:projectiles\\sentry\\bushcaneprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\localization\\en-us.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:localization\\en-us.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\accessories\\summoner\\amberemblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\accessories\\summoner\\amberemblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\accessories\\magic\\sapphireemblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\accessories\\magic\\sapphireemblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\accessories\\melee\\rubyemblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\accessories\\melee\\rubyemblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\items\\accessories\\ranger\\emeraldemblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:items\\accessories\\ranger\\emeraldemblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\localization\\es-es.hjson||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|solutionrelative:localization\\es-es.hjson||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0576E15-CB6C-48E1-ABC2-EF0FF750CDA5}|Modsito.csproj|c:\\users\\sebas\\documents\\my games\\terraria\\tmodloader\\modsources\\modsito\\build.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -48,21 +48,20 @@
               "RelativeDocumentMoniker": "build.txt",
               "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\build.txt",
               "RelativeToolTip": "build.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2023-08-08T01:00:46.237Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "es-ES.hjson",
               "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Localization\\es-ES.hjson",
               "RelativeDocumentMoniker": "Localization\\es-ES.hjson",
-              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Localization\\es-ES.hjson*",
-              "RelativeToolTip": "Localization\\es-ES.hjson*",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Localization\\es-ES.hjson",
+              "RelativeToolTip": "Localization\\es-ES.hjson",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAJAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-06T19:08:45.989Z",
               "IsPinned": true,
@@ -70,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "en-US.hjson",
               "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Localization\\en-US.hjson",
               "RelativeDocumentMoniker": "Localization\\en-US.hjson",
               "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Localization\\en-US.hjson",
               "RelativeToolTip": "Localization\\en-US.hjson",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAJAAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-06T19:08:12.472Z",
               "IsPinned": true,
@@ -84,54 +83,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RubyEmblem.cs",
-              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Melee\\RubyEmblem.cs",
-              "RelativeDocumentMoniker": "Items\\Accessories\\Melee\\RubyEmblem.cs",
-              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Melee\\RubyEmblem.cs",
-              "RelativeToolTip": "Items\\Accessories\\Melee\\RubyEmblem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:00:37.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmeraldEmblem.cs",
-              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Ranger\\EmeraldEmblem.cs",
-              "RelativeDocumentMoniker": "Items\\Accessories\\Ranger\\EmeraldEmblem.cs",
-              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Ranger\\EmeraldEmblem.cs",
-              "RelativeToolTip": "Items\\Accessories\\Ranger\\EmeraldEmblem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:00:52.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SapphireEmblem.cs",
-              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Magic\\SapphireEmblem.cs",
-              "RelativeDocumentMoniker": "Items\\Accessories\\Magic\\SapphireEmblem.cs",
-              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Magic\\SapphireEmblem.cs",
-              "RelativeToolTip": "Items\\Accessories\\Magic\\SapphireEmblem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Title": "BushCaneProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Projectiles\\Sentry\\BushCaneProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\Sentry\\BushCaneProjectile.cs",
+              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Projectiles\\Sentry\\BushCaneProjectile.cs",
+              "RelativeToolTip": "Projectiles\\Sentry\\BushCaneProjectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:00:26.206Z",
+              "WhenOpened": "2025-02-19T01:43:13.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BushCaneSentry.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Projectiles\\Sentry\\BushCaneSentry.cs",
+              "RelativeDocumentMoniker": "Projectiles\\Sentry\\BushCaneSentry.cs",
+              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Projectiles\\Sentry\\BushCaneSentry.cs",
+              "RelativeToolTip": "Projectiles\\Sentry\\BushCaneSentry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:20:07.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AmberEmblem.cs",
-              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Summoner\\AmberEmblem.cs",
-              "RelativeDocumentMoniker": "Items\\Accessories\\Summoner\\AmberEmblem.cs",
-              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Accessories\\Summoner\\AmberEmblem.cs",
-              "RelativeToolTip": "Items\\Accessories\\Summoner\\AmberEmblem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Title": "BushCane.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Weapons\\Summoner\\Sentry\\BushCane.cs",
+              "RelativeDocumentMoniker": "Items\\Weapons\\Summoner\\Sentry\\BushCane.cs",
+              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Items\\Weapons\\Summoner\\Sentry\\BushCane.cs",
+              "RelativeToolTip": "Items\\Weapons\\Summoner\\Sentry\\BushCane.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T18:00:49.021Z",
+              "WhenOpened": "2025-02-19T01:19:51.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DarkCrystalWhipProjectile.cs",
+              "DocumentMoniker": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Projectiles\\Whip\\DarkCrystalWhipProjectile.cs",
+              "RelativeDocumentMoniker": "Projectiles\\Whip\\DarkCrystalWhipProjectile.cs",
+              "ToolTip": "C:\\Users\\Sebas\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\Modsito\\Projectiles\\Whip\\DarkCrystalWhipProjectile.cs",
+              "RelativeToolTip": "Projectiles\\Whip\\DarkCrystalWhipProjectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T17:20:13.384Z",
               "EditorCaption": ""
             }
           ]

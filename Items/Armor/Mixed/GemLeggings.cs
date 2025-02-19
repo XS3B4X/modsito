@@ -9,15 +9,16 @@ namespace Modsito.Items.Armor.Mixed
     [AutoloadEquip(EquipType.Legs)]
     internal class GemLeggings : ModItem
     {
-        public static readonly int damageBonus = 5;
-        public static readonly int speedBonus = 5;
+        public static readonly int damageBonus = 3;
+        public static readonly int speedBonus = 7;
         public override LocalizedText Tooltip => base.Tooltip.WithFormatArgs(damageBonus, speedBonus);
         public override void SetDefaults()
         {
             Item.width = 18;
             Item.height = 18;
             Item.value = Item.sellPrice(silver: 30, copper: 90);
-            Item.defense = 4;
+            Item.defense = 3;
+            Item.rare = ItemRarityID.Blue;
         }
         public override void UpdateEquip(Player player)
         {

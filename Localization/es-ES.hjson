@@ -30,7 +30,7 @@ Mods: {
 					'''
 				SetBonus:
 					'''
-					Aumenta la probabilidad critica mágica en {1}%
+					Aumenta la probabilidad critica mágica en {0}%
 					Aumenta el maná máximo en {1}
 					'''
 			}
@@ -50,7 +50,7 @@ Mods: {
 			}
 
 			GemChestplate: {
-				DisplayName: Coraza de Gemas
+				DisplayName: Coraza de gemas
 				Tooltip:
 					'''
 					Aumenta el daño en {0}%
@@ -59,7 +59,7 @@ Mods: {
 			}
 
 			GemLeggings: {
-				DisplayName: Gem Leggings
+				DisplayName: Perneras de gemas
 				Tooltip:
 					'''
 					Aumenta el daño en {0}%
@@ -104,6 +104,34 @@ Mods: {
 				Tooltip: Dispara sierras que caen despues de unos segundos
 			}
 
+			AmberWhip: {
+				DisplayName: Látigo de ámbar
+				Tooltip:
+					'''
+					5 de daño de conexión por invocación
+					Tus invocaciones se centrarán en los enemigos golpeados
+					'''
+			}
+
+			DarkCrystalWhip: {
+				DisplayName: Cristal oscuro
+				Tooltip:
+					'''
+					3 de daño de conexión por invocación
+					Probabilidad del 4% de impacto critico de conexión por invocación
+					Tus invocaciones se centrarán en los enemigos
+					'''
+			}
+
+			BushCane: {
+				DisplayName: Bastón de arbusto
+				Tooltip:
+					'''
+					Invoca un centinela
+					Invoca un arbusto viviente que dispara hojas afiladas a enemigos
+					'''
+			}
+
 			FlameThrowerSentry: {
 				DisplayName: Báculo de Lanzallamas
 				Tooltip:
@@ -111,9 +139,10 @@ Mods: {
 					Invoca a un centinela
 					Dispara una llama hacia el enemigo más cercano
 					Cada uso de esta arma mejorará la torreta ya existente, en lugar de invocar una nueva
-					Cada mejora incrementará el daño en 33% y su alcance en 33%
-					Máximo 5 mejoras
+					Cada mejora incrementará el daño y su alcance en 33%
+					Cada mejora consumira un espacio de tus centielas
 					Ignora 15 puntos de Defensa enemiga
+					Click derecho para reubicar la torreta
 					Inflinge 'Helfire'
 					'''
 			}
@@ -146,7 +175,7 @@ Mods: {
 				Tooltip:
 					'''
 					Aumenta el daño mágico en {0}%
-					Aumenta el maná máximo en {1}
+					Disminuye el retraso de la regeneración de maná en 10%
 					'''
 			}
 
@@ -165,6 +194,21 @@ Mods: {
 			SawBladeProjectile.DisplayName: Saw Blade Projectile
 			FlameThrowerSentryProjectile.DisplayName: Flame Thrower Sentry Projectile
 			FlameThrowerFireProjectile.DisplayName: Flame Thrower Fire Projectile
+			// AmberWhipProjectile.DisplayName: Amber Whip Projectile
+			// BushCaneSummon.DisplayName: Bush Cane Summon
+			// DarkCrystalWhipProjectile.DisplayName: Dark Crystal Whip Projectile
+		}
+
+		Buffs: {
+			AmberWhipDebuff: {
+				// DisplayName: Amber Whip Debuff
+				// Description: Mods.Modsito.Buffs.AmberWhipDebuff.Description
+			}
+
+			DarkCrystalWhipDebuff: {
+				// DisplayName: Dark Crystal Whip Debuff
+				// Description: Mods.Modsito.Buffs.DarkCrystalWhipDebuff.Description
+			}
 		}
 	}
 }

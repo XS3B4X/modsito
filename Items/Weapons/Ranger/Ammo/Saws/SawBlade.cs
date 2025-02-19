@@ -29,13 +29,13 @@ namespace Modsito.Items.Weapons.Ranger.Ammo.Saws
         public override void AddRecipes()
         {
             Recipe recipe1 = CreateRecipe(25);
-            recipe1.AddIngredient(ItemID.LeadBar, 5);
+            recipe1.AddIngredient(ItemID.LeadBar, 1);
             recipe1.AddTile(TileID.Anvils);
             recipe1.HasResult(25);
             recipe1.Register();
 
             Recipe recipe2 = CreateRecipe(25);
-            recipe2.AddIngredient(ItemID.IronBar, 5);
+            recipe2.AddIngredient(ItemID.IronBar, 1);
             recipe2.AddTile(TileID.Anvils);
             recipe2.HasResult(25);
             recipe2.Register();

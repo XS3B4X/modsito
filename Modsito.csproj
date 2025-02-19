@@ -6,9 +6,10 @@
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Folder Include="Items\Accessories\Utility\" />
     <Folder Include="Items\Weapons\Summoner\Minion\" />
     <Folder Include="Items\Weapons\Summoner\Miscellaneous\" />
-    <Folder Include="Items\Weapons\Summoner\Whip\" />
     <Folder Include="NPCs\Sentry\" />
+    <Folder Include="Systems\" />
   </ItemGroup>
 </Project>

@@ -9,8 +9,8 @@ namespace Modsito.Items.Armor.Mixed
     [AutoloadEquip(EquipType.Body)]
     internal class GemChestplate : ModItem
     {
-        public static readonly int damageBonus = 7;
-        public static readonly int critChanceBonus = 4;
+        public static readonly int damageBonus = 3;
+        public static readonly int critChanceBonus = 3;
         public override LocalizedText Tooltip => base.Tooltip.WithFormatArgs(damageBonus, critChanceBonus);
         public override void SetDefaults()
         {
@@ -18,11 +18,12 @@ namespace Modsito.Items.Armor.Mixed
             Item.height = 18;
             Item.value = Item.sellPrice(silver: 35, copper: 24);
             Item.defense = 4;
+            Item.rare = ItemRarityID.Blue;
         }
         public override void UpdateEquip(Player player)
         {
             player.GetDamage(DamageClass.Generic) *= 1 + (damageBonus / 100f);
-            player.GetCritChance(DamageClass.Generic) *= 1 + (critChanceBonus / 100f);
+            player.GetCritChance(DamageClass.Generic) += critChanceBonus;
         }
         public override void AddRecipes()
         {

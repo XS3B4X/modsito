@@ -25,8 +25,8 @@ Mods: {
 				DisplayName: Sapphire Headgear
 				Tooltip:
 					'''
-					{0}% increased magic damage
-					{1}% decreased mana cost
+					"{0}% increased magic damage
+					{1}% decreased mana cost"
 					'''
 				SetBonus:
 					'''
@@ -44,8 +44,8 @@ Mods: {
 					'''
 				SetBonus:
 					'''
-					"Increases your max number of minions by {0}
-					Increases your max number of sentries by {0}"
+					Increases your max number of minions by {0}
+					Increases your max number of sentries by {0}
 					'''
 			}
 
@@ -104,6 +104,34 @@ Mods: {
 				Tooltip: Shoots saws that pierces 2 enemies.
 			}
 
+			AmberWhip: {
+				DisplayName: Amber Whip
+				Tooltip:
+					'''
+					5 summon tag damage
+					Your summons will focus struck enemies
+					'''
+			}
+
+			DarkCrystalWhip: {
+				DisplayName: Dark Crystal
+				Tooltip:
+					'''
+					3 summon tag damage
+					4% summon tag critical strike chance
+					Your summons will focus struck enemies
+					'''
+			}
+
+			BushCane: {
+				DisplayName: Bush Cane
+				Tooltip:
+					'''
+					Summons a sentry
+					Summons a living bush that shoots razor leafs to enemies
+					'''
+			}
+
 			FlameThrowerSentry: {
 				DisplayName: Flamethrower Staff
 				Tooltip:
@@ -111,9 +139,10 @@ Mods: {
 					Summons a sentry
 					Shoots flames to the nearest enemy
 					Every use of this weapon will upgrade the existing turret, instead of summoning a new one
-					Every upgrade will increase the damage by 33% and the range by 33%
-					Maximum 5 upgrades
+					Every upgrade will increase the damage and range by 33%
+					Every upgrade takes one of your sentry slots
 					Ignores 15 points of enemy Defense
+					Right click to re-locate the turret
 					Inflicts 'Helfire'
 					'''
 			}
@@ -146,7 +175,7 @@ Mods: {
 				Tooltip:
 					'''
 					{0}% increased magic damage
-					Increases maximum mana by {1}
+					10% decreased mana delay regeneration
 					'''
 			}
 
@@ -165,6 +194,21 @@ Mods: {
 			SawBladeProjectile.DisplayName: Saw Blade Projectile
 			FlameThrowerSentryProjectile.DisplayName: Flame Thrower Sentry Projectile
 			FlameThrowerFireProjectile.DisplayName: Flame Thrower Fire Projectile
+			AmberWhipProjectile.DisplayName: Amber Whip Projectile
+			BushCaneSummon.DisplayName: Bush Cane Summon
+			DarkCrystalWhipProjectile.DisplayName: Dark Crystal Whip Projectile
+		}
+
+		Buffs: {
+			AmberWhipDebuff: {
+				DisplayName: Amber Whip Debuff
+				Description: Mods.Modsito.Buffs.AmberWhipDebuff.Description
+			}
+
+			DarkCrystalWhipDebuff: {
+				DisplayName: Dark Crystal Whip Debuff
+				Description: Mods.Modsito.Buffs.DarkCrystalWhipDebuff.Description
+			}
 		}
 	}
 }

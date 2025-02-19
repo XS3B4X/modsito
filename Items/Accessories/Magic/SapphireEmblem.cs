@@ -9,8 +9,8 @@ namespace Modsito.Items.Accessories.Magic
     internal class SapphireEmblem : ModItem
     {
         public static readonly int damageBonus = 5;
-        public static readonly int maxManaBonus = 20;
-        public override LocalizedText Tooltip => base.Tooltip.WithFormatArgs(damageBonus, maxManaBonus);
+        public static readonly int manaDelayBonus = 9;
+        public override LocalizedText Tooltip => base.Tooltip.WithFormatArgs(damageBonus, manaDelayBonus);
         public override void SetDefaults()
         {
             Item.width = 22;
@@ -22,7 +22,7 @@ namespace Modsito.Items.Accessories.Magic
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
             player.GetDamage(DamageClass.Magic) *= 1 + (damageBonus / 100f);
-            player.statManaMax2 += maxManaBonus;
+            player.manaRegenDelay -= manaDelayBonus;
         }
         public override void AddRecipes()
         {

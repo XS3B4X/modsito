@@ -22,7 +22,7 @@ namespace Modsito.Items.Accessories.Summoner
         public override void UpdateAccessory(Player player, bool hideVisual)
         {
             player.GetDamage(DamageClass.Summon) *= 1 + (damageBonus / 100f);
-            player.GetModPlayer<WhipExtensionPlayer>().tagDamage += tagDamageBonus;
+            player.GetModPlayer<WhipTagDamageBonus>().tagDamage = tagDamageBonus;
         }
         public override void AddRecipes()
         {
@@ -33,7 +33,7 @@ namespace Modsito.Items.Accessories.Summoner
             recipe1.Register();
         }
     }
-    public class WhipExtensionPlayer : ModPlayer
+    public class WhipTagDamageBonus : ModPlayer
     {
         public int tagDamage = 0;
 
@@ -41,14 +41,14 @@ namespace Modsito.Items.Accessories.Summoner
         {
             tagDamage = 0;
         }
-
         public override void ModifyHitNPCWithProj(Projectile proj, NPC target, ref NPC.HitModifiers modifiers)
         {
-            // Verifica si el proyectil es un látigo
-            if (proj.DamageType == DamageClass.SummonMeleeSpeed && proj.aiStyle == ProjAIStyleID.Whip)
+            if (proj.npcProj || proj.trap || proj.WhipSettings.Segments > 0)
+                return;
+
+            if (proj.IsMinionOrSentryRelated)
             {
-                // Aplica el Tag Damage adicional
-                modifiers.SourceDamage.Base += tagDamage;
+                modifiers.FlatBonusDamage += tagDamage;
             }
         }
     }
